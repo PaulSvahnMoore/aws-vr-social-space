@@ -1,0 +1,47 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.log
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+sysinfo.txt
+mono_crash.*
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# IDE-specific files
+.vs/
+.gradle/
+ExportedObj/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# JetBrains Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# MemoryCaptures & Recordings
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# AWS-related
+.aws/
+*.pem
+*.key
+*.ppk
+*.crt
+*.cer
+*.der
+*.csr
